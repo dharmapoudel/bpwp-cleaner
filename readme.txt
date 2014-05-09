@@ -1,7 +1,7 @@
 === BlankPress WordPress Cleaner ===
 Tags: WordPress Cleaner, wphead cleaner, dashboard cleaner, header cleaner, springclean WordPress, WP optimizer, disable login shake
 Requires at least: 3.5
-Tested up to: 3.9
+Tested up to: 3.9.1
 Stable tag: 1.0
 License: GPLv3
 Contributors: dharmapoudel
